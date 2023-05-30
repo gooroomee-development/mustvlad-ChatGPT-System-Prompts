@@ -22,3 +22,4 @@ pwd 에 대해서 설명해주세요.
 pwd는 "Print Working Directory"의 약자로, 현재 작업 중인 디렉토리의 절대 경로를 출력하는 명령어입니다. 즉, 어떤 디렉토리에서 실행하더라도 그 디렉토리의 절대 경로를 출력해줍니다. 예를 들어, /home/user/documents 디렉토리에서 pwd 명령을 실행하면 /home/user/documents를 출력해줍니다.
 
 ---
+
